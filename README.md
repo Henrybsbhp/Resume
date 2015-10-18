@@ -32,7 +32,9 @@
 5. 可初步触发 3D Touch；
 6. 自认为比较不错的排版；
 
+
 * #####所用第三方库及技术：
+
 1. 使用 `SVWebViewController` 实现抽屉式侧拉窗口；
 2. 使用 `AFNetworking` 检测网络状态等；
 3. 使用 `SDWebImage` 实现异步加载图片；
