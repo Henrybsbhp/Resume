@@ -5,7 +5,7 @@
 * Mail：henrybsbhp@gmail.com
 * Telegram：Henrybsbhp
 
-有良好的英文读看听的能力，所看技术书籍以英文为主。
+有良好的英文读看听说的能力，所看技术书籍以英文为主。
 
 ###求职岗位及地点：
 
