@@ -31,7 +31,7 @@
 2. 网络请求基于 `AFNetworking` 为基础和 `ReactiveCocoa` 进行二次封装；
 3. 图片异步加载使用 `SDWebImage` 框架；
 3. 项目主要使用 ReactiveCocoa 进行开发；
-4. 自行封装过走马灯效果的上下滚动 View 和一个监听键盘高度的库；
+4. 自行封装过走马灯效果的上下滚动 View 和监听键盘高度的库等等控件；
 6. 部分页面配合 React Native 进行开发，使用效果接近原生。
 
 
