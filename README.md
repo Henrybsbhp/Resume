@@ -27,7 +27,7 @@
 
 * #####项目介绍：
 
-1. 主要使用 `MVC` 模式，特定模块使用 `MVVM` 模快调；
+1. 主要使用 `MVC` 模式，特定模块使用 `MVVM` 模式；
 2. 网络请求基于 `AFNetworking` 为基础和 `ReactiveCocoa` 进行二次封装；
 3. 图片异步加载使用 `SDWebImage` 框架；
 3. 项目主要使用 ReactiveCocoa 进行开发；
