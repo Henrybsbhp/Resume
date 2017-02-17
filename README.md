@@ -66,7 +66,7 @@
 2. 熟悉各种布局方式包括可视化 Storyboard 、纯代码自动布局 Masonry;
 3. 了解 HTTP 协议，熟练使用 MVC 和 MVVM 模式，熟悉 JSON 结构；
 4. 掌握 ReactiveCocoa 响应式开发；
-5. 掌握 React Native 开发；
+5. 初步掌握 React Native 开发；
 6. 有自行完成单模块开发和项目的能力。
 
 ###自我评价：
