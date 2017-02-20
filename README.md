@@ -109,8 +109,8 @@ Location: AnQing, AnHui, P.R.China
 
 * #####Project Introduction：
 
-1. Use MVC pattern mainly, Particular module are using MVVM pattern;
-2. We used `ReactiveCocoa` and `AFNetworking` to create a network library, Use it to handle the internet request.
+1. MVC pattern mainly, Particular modules are using MVVM pattern;
+2. We used `ReactiveCocoa` and `AFNetworking` to create a network library, and use it to handle the internet request.
 3. Asynchronous Image Loading via `SDWebImage` library.
 3. The project was developed with `ReaciveCocoa`.
 4. Created a several libraries myself.
@@ -130,7 +130,7 @@ Location: AnQing, AnHui, P.R.China
 	
 * ####2016.03 ~ 2016.12 Hangzhou Huika Technology Co.,Ltd
 
- Intro：Cooperated with colleagues to develop an iOS App named XiaoMaDaDa in the company. We learned a bunch of new technology to make the app better, such as `ReactiveCocoa` and `React Native`. I created a several libraries to make the project development more convenience. Afterward, a several scenes was developed with 'React Native'. The colleagues are so friendly to me
+ Intro：Cooperated with colleagues to develop an iOS App named XiaoMaDaDa in the company. We've learned a bunch of new technology to make the app better, such as `ReactiveCocoa` and `React Native`. I created a several libraries to make the project development more convenience. Afterward, a several scenes was developed with 'React Native'. The colleagues are so friendly to me
 
 
 * ####2015.8 ~ 2016.03 Hangzhou Kingo Information&Technology Co.,Ltd
@@ -151,7 +151,7 @@ Location: AnQing, AnHui, P.R.China
 6. Have the ability to finish the module or project by myself.
 
 ###Summary：
-* I was working on the international trade before being a iOS developer and I have a great self-learning ability. I used my spare time to study the iOS development knowledge on my own and completed an iOS app available the App Store;
+* I was working on the international trade before being a iOS developer and I have a great self-learning ability. I used my spare time to study the iOS development knowledge on my own and completed an iOS app available on the App Store;
 * Proactive, aggressive, team spirit, being able to successfully work under considerable pressure, hardworking;
 * Good communication skill, be willing to take challenges; 
 * Strong sense of responsibility.
