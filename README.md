@@ -105,7 +105,7 @@ Location: AnQing, AnHui, P.R.China
 
 
 ###Projects：
-####1. XiaoMaDaDa Client（A company project）（Available on the App Store [App Store](https://itunes.apple.com/cn/app/xiao-ma-da-da/id991665445?mt=8)）
+####1. XiaoMaDaDa Client（A company project）（Available on the [App Store](https://itunes.apple.com/cn/app/xiao-ma-da-da/id991665445?mt=8)）
 
 * #####Project Introduction：
 
