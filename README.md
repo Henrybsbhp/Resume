@@ -76,3 +76,85 @@
 * 有责任心，做什么事都很认真。
 
 
+
+<br>
+##English Resume:
+###Contact:
+Name：Xing He
+Sex: Male，
+Age: 24 year-old，
+Location: AnQing, AnHui, P.R.China
+
+
+* Mobile Phone：+86 18668056025 
+* Mail：henrybsbhp@gmail.com
+* Telegram：Henrybsbhp
+
+###Desired Position & Location：
+
+* Position Applied：iOS Development
+* Excepted Work Place：Shanghai, Hangzhou
+* Available Time: Withing a half month
+
+###Education:
+* School Time：2010-2012
+* Institute：Anhui Institute of International Business
+* Major：Business English
+* Education：College Education
+
+
+
+###Projects：
+####1. XiaoMaDaDa Client（A company project）（Available on the App Store [App Store](https://itunes.apple.com/cn/app/xiao-ma-da-da/id991665445?mt=8)）
+
+* #####Project Introduction：
+
+1. Use MVC pattern mainly, Particular module are using MVVM pattern;
+2. We used `ReactiveCocoa` and `AFNetworking` to create a network library, Use it to handle the internet request.
+3. Asynchronous Image Loading via `SDWebImage` library.
+3. The project was developed with `ReaciveCocoa`.
+4. Created a several libraries myself.
+6. A several scenes was developed with 'React Native'.
+
+
+####2. V2EX・Kiwis, a V2EX client that was developed on my own. Now it's unavailable on the App Store (Due to my developer account wasn't renewed)
+
+* #####Project Introduction：
+
+1. A better way to explore the topics.
+2. You could login and reply the topic easily.
+3. Now it's an open source project. GitHub: https://github.com/Henrybsbhp/V2EX-Client
+，Forgive my poor codes, I wrote these codes for the first time since I studied iOS development.
+
+###Working Eeperiences：
+	
+* ####2016.03 ~ 2016.12 Hangzhou Huika Technology Co.,Ltd
+
+ Intro：Cooperated with colleagues to develop an iOS App named XiaoMaDaDa in the company. We learned a bunch of new technology to make the app better, such as `ReactiveCocoa` and `React Native`. I created a several libraries to make the project development more convenience. Afterward, a several scenes was developed with 'React Native'. The colleagues are so friendly to me
+
+
+* ####2015.8 ~ 2016.03 Hangzhou Kingo Information&Technology Co.,Ltd
+
+ Intro：Help colleagues to complete a iOS Map app for the government. Mainly in charge of the bug fixes.
+
+###Techniques：
+* Programming Language：Objective-C（Mastered），JavaScript；
+* Development Tool：Xcode, CocoaPods，Git，iTunesConnect, TestFlight；
+
+
+* #####iOS Techniques：
+
+1. Extensive experience with Objective-C on the iOS device. Skilled in the iOS memory management and GCD;
+2. Skilled in the Auto Layout on the storyboard and use the `Masonry` library to finish the Auto Layout by the codes;
+3. Know the HTTP protocal，Familiar with MVC and MVVM pattern;
+4. Skilled in the `ReactiveCocoa`;
+6. Have the ability to finish the module or project by myself.
+
+###Summary：
+* I was working on the international trade before being a iOS developer and I have a great self-learning ability. I used my spare time to study the iOS development knowledge on my own and completed an iOS app available the App Store;
+* Proactive, aggressive, team spirit, being able to successfully work under considerable pressure, hardworking;
+* Good communication skill, be willing to take challenges; 
+* Strong sense of responsibility.
+
+
+
