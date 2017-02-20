@@ -5,7 +5,7 @@
 
 * 手机：18668056025 
 * Mail：henrybsbhp@gmail.com
-* Telegram：Henrybsbhp
+* Telegram：[Henrybsbhp](https://t.me/Henrybsbhp)
 
 有良好的英文读看听的能力。
 
