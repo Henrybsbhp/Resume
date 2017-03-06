@@ -12,7 +12,7 @@
 ###求职岗位及地点：
 
 * 职位：iOS 程序开发
-* 地点：杭州
+* 地点：杭州，上海
 
 ###教育程度：
 * 时间：2010-2012
@@ -91,7 +91,6 @@ Location: AnQing, AnHui, P.R.China
 * Telegram：Henrybsbhp
 
 ###Desired Position & Location：
-
 * Position Applied：iOS Development
 * Excepted Work Place：Shanghai, Hangzhou
 * Available Time: Withing a half month
@@ -155,6 +154,8 @@ Location: AnQing, AnHui, P.R.China
 * Proactive, aggressive, team spirit, being able to successfully work under considerable pressure, hardworking;
 * Good communication skill, be willing to take challenges; 
 * Strong sense of responsibility.
+
+
 
 
 
